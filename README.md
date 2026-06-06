@@ -1,12 +1,7 @@
 # Companion app for watch faces ![Static Badge](https://img.shields.io/badge/version-v1.0.0-green)
-Change README language: 
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/hms-douglas/companion)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-blue.svg)](https://github.com/hms-douglas/companion/blob/main/README.pt-BR.md)
-</br>
-</br>
+ 
 As many of the watch face designers don't know how to code, I decided to build a companion app guide to help them.
-</br>
-</br>
+ 
 <img src="readme_screenshots_ignore/0.png" width="100%"/>
 
 ##
